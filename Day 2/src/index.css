@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Oswald', sans-serif;
+}
+.heading{
+  color:red;
+  background-color: yellow;
+  font-size: 30px;
+}
+img{
+  margin-right:10px;
+}
+body{
+  background-color: aquamarine;
+}
+.greet{
+  background-color: rgb(145, 160, 59);
+  width:345px;
+  border-radius:10px;
+  text-align: center;
+  margin-top:20%;
+  margin-left:35%;
+}
+a.active_class{
+  color:rgb(255, 0, 242);
+  border-bottom: 1px solid green;
+}
